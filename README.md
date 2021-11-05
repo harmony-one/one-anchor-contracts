@@ -2,6 +2,8 @@
 
 `oneAnchor` is a set of Harmony-side contracts that wrap around Anchor’s UST deposit flow to be accessible from Harmony. It works alongside with `one-anchor-bot` to forward and automate any deposits and withdrawal requests being made on Harmony to the Terra blockchain.
 
+Currently in Beta Development
+
 
 ## Contract List
 
